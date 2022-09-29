@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "mhutchie.git-graph",
+    "shardulm94.trailing-spaces"
+  ],
+  "unwantedRecommendations": [
+    "ms-vscode.cpptools",
+    "xaver.clang-format"
+  ]
+}
